@@ -1,0 +1,42 @@
+
+#heading{
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:100;
+    font-weight: 2000;
+    background-color: yellowgreen;
+   
+}
+#sundorbon{
+    color:blue;
+    font-size:60;
+    margin:10px 20px 10px 20px;
+
+}
+#bonp{
+    font-size:30;
+    
+}
+#bon{
+    background-color: chocolate;
+}
+#sajekh{
+    font-size:60;
+    color: blueviolet;
+}
+#sajekp{
+    font-size:30;
+}
+#sajek{
+    background-color: chocolate;
+    border: 10px solid red;
+    
+}
+#vatija{
+    border: 10px  solid red ;
+    border-radius: 40px;
+    
+    font-size: 40;
+    color: rgb(14, 74, 215);
+    font-weight: 20px;
+}
